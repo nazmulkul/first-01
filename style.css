@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-part{
+    padding: 0 100px;
+}
+
+.header-part{
+    background-image: url(resources/Banner\ Image.png);
+    width: 100%;
+    height: 600px;
+    font-weight: 500px;
+    background-repeat: no-repeat;
+}
+.header-part h5{
+   color: aliceblue;
+   font-size: 40px;
+   text-align: center;
+}
+.header-part h1{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 900;
+}
+.contentImg{
+    width: 100%;
+    text-align: center;
+
+}
+.content h1{
+    font-size: 100px;
+    color: #FF0000;
+    text-align: center;
+    margin-top: 50px;
+}
+.content p{
+    font-size: 24px;
+    text-align: center;
+    color: #FF0000;
+    margin-top: 30px;
+}
+.content h4{
+    font-size: 45px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}.img-new{
+    background-position: center;
+}
+.nazmul-hasan{
+    background-image: url(resources/Vectorrr.png);
+    text-align: left;
+    padding: 100px;
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+.nazmul-hasan h2{
+    font-size: 100px;
+    font-weight: 500;
+    color: aliceblue;
+    line-height: 88px;
+}
+.nazmul-hasan p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    color: aliceblue;
+    padding: 10px;
+    margin: 15px;
+}
+.nazmul-hasan a{
+    font-size: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.nazmul-new{
+    background-color: pink;
+    width:auto;
+    height: 200px;
+    text-align: center;
+    padding: 100px;
+    border-radius: 5px;
+}
+.nazmul-new p{
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+}
+span{
+    color: #FF0000;
+}
+.nazmul-new a{
+    color: aliceblue;
+    background-color: #FF0000;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.content-part{
+    width: 100%;
+    color: aliceblue;
+    background-image: url(resources/Ellipse\ 1.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position:center ;
+}
+.content-part h6{
+    color: #FF0000;
+    text-align: left;
+    padding:20px;
+    font-size: 30px;
+}
+.content-part h4{
+    color: black;
+    font-size: 70px;
+}
+.content-part h3{
+    text-align: right;
+    color: #FF0000;
+    font-size: 35px;
+    padding: 30px;
+}
